@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8' ?><!--
+Created by Alight Motion (http://alightmotion.com)
+Exported: 2023-11-12 10:40 PM
+5.0.0.102367 (20267)
+938b541 (8 de mai. de 2023 11:45:36)
+-->
+<scene title="Pinwheel 2024 Logo" width="1080" height="1139" exportWidth="1080" exportHeight="1080" precompose="dynamicResolution" bgcolor="#00000000" totalTime="2066" fps="30" modifiedTime="1699839624521" amver="20267" ffver="106" am="com.alightcreative.motion/5.0.0.102367" amplatform="android" type="element" retime="freeze" retimeAdaptFPS="false">
+  <embedScene id="2112" label="Group 3" startTime="0" endTime="2066" fillType="color" outTime="2147483198" mediaFillMode="fill">
+    <transform>
+      <location value="534.662354,571.843811,0.000000" />
+      <pivot value="5.337646,-2.343811" />
+      <scale value="1.261764,1.261766" />
+    </transform>
+    <fillColor value="#ff000000" />
+    <scene title="" width="1080" height="1080" exportWidth="1080" exportHeight="1080" precompose="dynamicResolution" bgcolor="#00000000" totalTime="2515" fps="30" modifiedTime="0" amver="20267" ffver="106" am="com.alightcreative.motion/5.0.0.102367" amplatform="android" retime="off" retimeAdaptFPS="false">
+      <embedScene id="2080" label="Group 1" startTime="0" endTime="2515" fillType="color" mediaFillMode="fit">
+        <transform>
+          <location value="540.000000,526.859009,0.000000" />
+          <pivot value="109.609863,-213.195862" />
+        </transform>
+        <fillColor value="#ffaddce6" />
+        <effect id="com.alightcreative.effects.longshadow2" hidden="true" locallyApplied="true">
+          <property name="size" type="float" value="0.150000" />
+          <property name="angle" type="float" value="90.000000" />
+          <property name="color" type="color" value="#ff000000" />
+          <property name="alpha" type="float" value="0.100000" />
+          <property name="solidity" type="float" value="1.000000" />
+          <property name="fill" type="float" value="1.000000" />
+          <property name="fade" type="float" value="1.000000" />
+          <property name="fadeType" type="int" value="0" />
+        </effect>
+        <scene title="" width="1080" height="1080" exportWidth="1080" exportHeight="1080" precompose="dynamicResolution" bgcolor="#00000000" totalTime="2515" fps="30" modifiedTime="0" amver="20267" ffver="106" am="com.alightcreative.motion/5.0.0.102367" amplatform="android" retime="off" retimeAdaptFPS="false">
+          <shape id="2078" label="Moon 1 Copy 4" startTime="0" endTime="2515" fillType="color" mediaFillMode="fill" s=".moon">
+            <transform>
+              <location value="749.498596,540.000000,0.000000" />
+              <scale value="2.215293,2.205751" />
+              <rotation value="90.000000" />
+            </transform>
+            <property name="radius" type="float" value="100.000000" />
+            <property name="offset" type="float" value="524.810425" />
+          </shape>
+          <shape id="2079" label="Moon 1 Copy 6" startTime="0" endTime="2515" fillType="color" mediaFillMode="fill" s=".moon">
+            <transform>
+              <location value="550.675354,323.190857,0.000000" />
+              <scale value="2.215293,2.205751" />
+            </transform>
+            <property name="radius" type="float" value="100.000000" />
+            <property name="offset" type="float" value="525.000000" />
+          </shape>
+        </scene>
+      </embedScene>
+      <embedScene id="2081" label="Group 2" startTime="0" endTime="2515" fillType="color" mediaFillMode="fill">
+        <transform>
+          <location value="540.000000,526.859009,0.000000" />
+          <pivot value="-98.934509,234.985535" />
+        </transform>
+        <fillColor value="#ffaddce6" />
+        <effect id="com.alightcreative.effects.longshadow2" hidden="true" locallyApplied="true">
+          <property name="size" type="float" value="0.101000" />
+          <property name="angle" type="float" value="90.000000" />
+          <property name="color" type="color" value="#ff000000" />
+          <property name="alpha" type="float" value="0.100000" />
+          <property name="solidity" type="float" value="1.000000" />
+          <property name="fill" type="float" value="1.000000" />
+          <property name="fade" type="float" value="1.000000" />
+          <property name="fadeType" type="int" value="0" />
+        </effect>
+        <scene title="" width="1080" height="1080" exportWidth="1080" exportHeight="1080" precompose="dynamicResolution" bgcolor="#00000000" totalTime="2515" fps="30" modifiedTime="0" amver="20267" ffver="106" am="com.alightcreative.motion/5.0.0.102367" amplatform="android" retime="off" retimeAdaptFPS="false">
+          <shape id="2076" label="Moon 1 Copy 7" startTime="0" endTime="2515" fillType="color" mediaFillMode="fill" s=".moon">
+            <transform>
+              <location value="341.176758,561.984985,0.000000" />
+              <scale value="2.215293,2.205751" />
+              <rotation value="-90.000000" />
+            </transform>
+            <property name="radius" type="float" value="100.000000" />
+            <property name="offset" type="float" value="524.810425" />
+          </shape>
+          <shape id="2077" label="Moon 1 Copy 5" startTime="0" endTime="2515" fillType="color" mediaFillMode="fill" s=".moon">
+            <transform>
+              <location value="540.000000,778.403503,0.000000" />
+              <scale value="2.215293,2.205751" />
+              <rotation value="-180.000000" />
+            </transform>
+            <property name="radius" type="float" value="100.000000" />
+            <property name="offset" type="float" value="525.000000" />
+          </shape>
+        </scene>
+      </embedScene>
+    </scene>
+  </embedScene>
+</scene>
