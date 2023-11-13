@@ -1,0 +1,34 @@
+{
+  "colorScheme": ["dark", "light"],
+  "defaultColor": "blue",
+  "wednesdayColors": "pink",
+  "sundayColors": "orange",
+  "colorType": "Dynamic",
+  
+  "blue": {
+    "dark": "#111127 (100%)",
+    "light": "#ADADE6 (100%)"
+  },
+  "pink": {
+    "dark": "#271127 (100%)",
+    "light": "#E6ADE6 (100%)"
+  },
+  "cyan": {
+    "dark": "#111E27 (100%)",
+    "light": "#ADDCE6 (100%)"
+  },
+  "green": {
+    "dark": "#112711 (100%)",
+    "light": "#ADE6AD (100%)"
+  },
+  "red": {
+    "dark": "#271111 (100%)",
+    "light": "#E6ADAD (100%)"
+  },
+  "orange": {
+    "dark": "#271C11 (100%)",
+    "light": "#E6CAAD (100%)"
+  },
+  
+  "NOTA": "TEREMOS MAIS EM BREVE, POR FAVOR, QUALQUER COR ALÉM DESSAS SERÁ INVÁLIDO NA LOGO."
+}
